@@ -1,0 +1,67 @@
+/* 
+    BACKGROUND COLORS
+*/
+
+.black-bg {
+    background-color: #000000;
+}
+
+.lightgrey-bg {
+    background-color: #4A4A4A;
+}
+
+.grey-bg {
+    background-color: #222222;
+}
+
+.darkgrey-bg {
+    background-color: #0E0E0E;
+}
+
+.lightgrey-bg-overlay {
+    background-color: #4A4A4A90;
+}
+
+/* 
+    FONT COLORS
+*/
+
+.white-font {
+    color: #FFFFFF;
+}
+
+.black-font {
+    color: #000000;
+}
+
+.red-font {
+    color: #F00A1E;
+}
+
+.green-font {
+    color: #4BC800;
+}
+
+/* 
+    FONT STYLE
+*/
+
+.bold-font {
+    font-weight: bold;
+}
+
+
+
+/* 
+    LAYOUT
+*/
+
+.speaker-view,
+.full-screen-button,
+.user-info {
+    border-radius: 2px;
+}
+
+.user-info {
+    font-size: 12px;
+}
