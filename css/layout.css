@@ -50,7 +50,14 @@
     font-weight: bold;
 }
 
+.main-container .user-text,
+.footer-container .button {
+    font-size: 12px;
+}
 
+.triangle {
+    font-size: 10px;
+}
 
 /* 
     LAYOUT
@@ -58,10 +65,7 @@
 
 .speaker-view,
 .full-screen-button,
-.user-info {
+.main-container .user-text {
     border-radius: 2px;
 }
 
-.user-info {
-    font-size: 12px;
-}
